@@ -1,11 +1,11 @@
-flet==0.25.2
+iflet==0.25.2
 numpy
 pandas
 fuzzywuzzy==0.18.0
 reportlab==4.0.5
 arabic-reshaper
 python-bidi
-scikit-learn==1.4.1
+scikit-learn==1.4.0
 
 
 
