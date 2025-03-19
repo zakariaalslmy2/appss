@@ -1,4 +1,4 @@
-iflet==0.25.2
+flet==0.25.2
 numpy
 pandas
 fuzzywuzzy==0.18.0
