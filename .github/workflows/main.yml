@@ -10,8 +10,8 @@ on:
 env:
   BUILD_NUMBER: 1
   BUILD_VERSION: 1.0.0
-  PYTHON_VERSION: 3.10.5  # تم التعديل هنا
-  FLUTTER_VERSION: 3.22.2 # يمكنك تحديثه أيضًا إذا أردت
+  PYTHON_VERSION: 3.12.2
+  FLUTTER_VERSION: 3.22.2
 
 jobs:
   build-android:
